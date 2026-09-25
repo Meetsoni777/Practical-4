@@ -1,0 +1,7 @@
+feat: add basic HTML/CSS web page
+
+- Created header with logo, navigation (Home, About, Services, Contact), and Login/Logout links
+- Added hero section with heading and call-to-action button
+- Added middle content section with feature cards and About block
+- Added responsive footer with quick links
+- Built using pure HTML and CSS only (no JavaScript)
